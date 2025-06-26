@@ -1,0 +1,1 @@
+// File rimosso - Sync Indicator rimosso completamente

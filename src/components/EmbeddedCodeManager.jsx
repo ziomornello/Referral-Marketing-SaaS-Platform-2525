@@ -1,0 +1,1 @@
+// File rimosso - Embedded Code Manager non più necessario
